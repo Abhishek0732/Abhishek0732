@@ -19,10 +19,11 @@ education:
     "AI",
     "Java Devloper",
   ]
-- 🌱 I’m currently learning python,C, and many other python libraries
-- 💞️ I’m looking to collaborate on 
->### connect with me:
+- 🌱 I’m currently learning Machine Learning, SQL,DBMS and OOPS 
 
+>### connect with me:
+abhishekverma0732@gmail.com <br>
+https://www.linkedin.com/in/abhishek-kumar-verma-b6a832202
 <!---
 Abhishek0732/Abhishek0732 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
