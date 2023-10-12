@@ -23,7 +23,7 @@ education:
 
 >### connect with me:
 abhishekverma0732@gmail.com <br>
-https://www.linkedin.com/in/abhishek-kumar-verma-b6a832202
+https://www.linkedin.com/in/abhishekverma32/
 <!---
 Abhishek0732/Abhishek0732 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
