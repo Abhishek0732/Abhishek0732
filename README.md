@@ -3,11 +3,11 @@
  <br>
  <br>
  
-Name: Abhishek Kumar Verma <br>
+Name: **Abhishek Kumar Verma** <br>
 located_in: Lucknow,India <br>
 education:
   [
-  Bachelors of Technology
+  **Bachelors of Technology**
   ]
   
   
