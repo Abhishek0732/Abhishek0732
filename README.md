@@ -37,7 +37,7 @@ Here are some of the technologies and skills I work with:
 
 Let's connect and collaborate! You can reach me on:
 
-- LinkedIn: [Abhishek Kumar Verma](https://www.linkedin.com/in/abhishek32/)
+- LinkedIn: [Abhishek Kumar Verma](https://www.linkedin.com/in/abhishekverma32/)
 - GitHub: [Abhishek0732](https://github.com/abhishek0732)
 - Gmail: abhishekverma0732@gmail.com
 
