@@ -8,7 +8,7 @@
  </div>
 <h3>🚀 I am a Aspiring Software Engineer, competitive programmer, AI/ML and web development enthusiast on a mission to create user-friendly web applications that solve real-world problems. Embracing challenges and continuously exploring new technologies and frameworks. Actively seeking opportunities to collaborate on open-source projects and contribute to the developer community.</h3>
 
-- 🛠️ **Languages & Frameworks:** JavaScript (React), Java, Python(Django, Flask), HTML, CSS, SQL
+- 🛠️ **Languages & Frameworks:**  HTML, CSS, JavaScript(React), Java, Python(Django, Flask), PHP(CodeIgniter),SQL
 - 💻 **Front-End Development:** Responsive web design, Single Page Applications (SPAs)
 - 🚀 **Back-End Development:** RESTful APIs, server-side scripting, database design (MySQL, MongoDB)
 - 🔧 **Tools & Technologies:** Git, VSCode, Google Colab, Jupyter
@@ -24,7 +24,8 @@ Here are some of the technologies and skills I work with:
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" height="50" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" height="50" />
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/java-eight.png" alt="Java" title="Java" height="50" />
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=13460&format=png&color=000000)" height="50" />
   <img src="https://img.icons8.com/color/48/000000/c.png" alt="C" title="C" height="50" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" height="50" />
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" title="Django" height="50" />
@@ -40,6 +41,20 @@ Let's connect and collaborate! You can reach me on:
 - LinkedIn: [Abhishek Kumar Verma](https://www.linkedin.com/in/abhishekverma32/)
 - GitHub: [Abhishek0732](https://github.com/abhishek0732)
 - Gmail: abhishekverma0732@gmail.com
+
+
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+<!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" /> -->
+<!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" /> -->
+<!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" /> -->
+<!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" /> -->
+<!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" /> -->
+<!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" /> -->
+<!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" /> -->
+<!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
+</div>
 
 ## Hacktoberfest 2023
 
