@@ -54,7 +54,7 @@ Let's connect and collaborate! You can reach me on:
 
 
 
-## Hacktoberfest 2023
+## Hacktoberfest 2024 and 2023
 
 [![An image of @abhishek_kverma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishek_kverma)](https://holopin.io/@abhishek_kverma)
 <!---
